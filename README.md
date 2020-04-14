@@ -1,14 +1,6 @@
 # Dark Discord
-An actual dark mode for discord.
-
-# Downloads
-- [BetterDiscord](https://betterdiscord.net/ghdl?id=3132)
-- [Powercord](https://github.com/zzzmario/dark-discord/blob/master/Dark%20Discord.rar?raw=true)
-
-# Preview
-<img src="https://i.imgur.com/XjXTKPL.png"/>
+An actual dark mode for discord. Theme made by @zzzmario, I just modified some stuff. Credit goes to him
 
 # Support 
-- [Support Server](https://discord.gg/7JceW7S)
-- mario#9999 
+Support is not available, I just made this theme for myself.
 
